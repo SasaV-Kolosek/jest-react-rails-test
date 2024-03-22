@@ -1,5 +1,6 @@
 # React rails test
 
+
 This is a playground project to experiment with the following tech stack:
 
 * Rails 5.0
